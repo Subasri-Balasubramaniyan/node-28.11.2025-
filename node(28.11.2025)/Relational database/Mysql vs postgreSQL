@@ -1,0 +1,7 @@
+| Feature         | PostgreSQL                             | MySQL                                          |
+| --------------- | -------------------------------------- | ---------------------------------------------- |
+| Type            | Object-relational                      | Relational                                     |
+| Best for        | Complex queries, large data, analytics | Web apps, read-heavy apps                      |
+| JSON support    | Excellent                              | Good but less advanced                         |
+| Performance     | Great for complex operations           | Great for simple/fast queries                  |
+| ACID compliance | Always strict                          | Depends on storage engine (InnoDB recommended) |
